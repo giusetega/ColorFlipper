@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    margin: auto;
+    font-size: 1.4em;
+}
+
+header{
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 10px 33px;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;    
+}
+
+li{
+    display: inline;
+    margin: 0px 50px;   
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li:hover{
+    background-color: gray;
+}
+
+button{
+    font-size: 0.9em;
+    font-family: verdana;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    padding: 7px;
+    cursor: pointer;
+}
